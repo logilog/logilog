@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **.Net Core**
 
-- 📝 I regularly write articles on [Istanbool Today](Istanbool Today)
+- 📝 I regularly write articles on [Istanbool Today](Technology Writer)
 
 - 💬 Ask me about **C++,C#,.Net Core,.Net MVC, Python**
 
