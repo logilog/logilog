@@ -1,24 +1,65 @@
-# 💫 About Me:
-🔭 I’m currently working on [Turkiye Sigorta](in Assistant Specialist position)<br><br>🌱 I’m currently learning .Net Core<br><br>📝 I regularly write articles on [Istanbool Today](Technology Writer)<br><br>💬 Ask me about C++,C#,.Net Core,.Net MVC, Python<br><br>📫 How to reach me boranzer@hotmail.com
+# MCP PolicyCompare SaaS (v1)
 
+PolicyCompare, sigorta poliçelerini yapay zekâ ile çıkarıp kıyaslamaya odaklanan çoklu-tenant bir SaaS uygulamasıdır. Kullanıcılar PDF/IMG poliçelerini yükler, yapay zekâ teminat ve istisnaları standart bir şemaya normalize eder, ardından iki veya daha fazla poliçe arasında farkları ve önerileri raporlar.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/boranzer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bora anzerlioğlu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@boranzer) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19085099) 
+## Özellikler
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=logilog&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=logilog&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=logilog&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+- Next.js 15 App Router + TypeScript ile SSR/ISR desteği
+- NextAuth tabanlı çoklu sağlayıcı kimlik doğrulaması
+- Prisma + PostgreSQL ile çoklu tenant şeması
+- Stripe abonelikleri ve 1 günlük deneme desteği
+- OpenAI ile poliçe çıkarımı ve karşılaştırması
+- Cloudflare R2/S3 üzerinde dosya depolama
+- AES-256-GCM ile kullanıcı OpenAI anahtarını şifreleme
+- RBAC, organizasyon ve kullanım kontrolü
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=logilog&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## Başlangıç
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+```bash
+pnpm install
+pnpm dlx prisma generate
+pnpm dlx prisma migrate dev
+pnpm dev
+```
 
----
-[![](https://visitcount.itsvg.in/api?id=logilog&icon=6&color=4)](https://visitcount.itsvg.in)
+## Yapı
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```
+app/
+  (marketing)/page.tsx
+  (dashboard)/dashboard/page.tsx
+  api/
+    compare/route.ts
+    ocr/route.ts
+    openai/save-key/route.ts
+    stripe/webhook/route.ts
+    usage/route.ts
+  auth/[...nextauth]/route.ts
+  layout.tsx
+  globals.css
+components/
+  CompareForm.tsx
+  FileDropzone.tsx
+  Navbar.tsx
+  Pricing.tsx
+lib/
+  ai.ts
+  auth.ts
+  billing.ts
+  crypto.ts
+  prisma.ts
+  r2.ts
+  stripe.ts
+prisma/
+  schema.prisma
+scripts/
+  seed.ts
+```
+
+## Ortam Değişkenleri
+
+`.env.example` dosyasında gerekli tüm değişkenler listelenmiştir. `ENCRYPTION_KEY_BASE64` değeri için `openssl rand -base64 32` komutu ile 32 baytlık anahtar üretin.
+
+## Lisans
+
+MIT
