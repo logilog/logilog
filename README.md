@@ -1,24 +1,81 @@
-# 💫 About Me:
-🔭 I’m currently working on [Turkiye Sigorta](in Assistant Specialist position)<br><br>🌱 I’m currently learning .Net Core<br><br>📝 I regularly write articles on [Istanbool Today](Technology Writer)<br><br>💬 Ask me about C++,C#,.Net Core,.Net MVC, Python<br><br>📫 How to reach me boranzer@hotmail.com
+# LogiLog MCP
 
+LogiLog MCP is a secure SaaS starter kit that delivers authentication, subscription-ready billing hooks, and AI-assisted features powered by OpenAI. This repository contains the first production-ready backend release (v0.1.0) that we can iteratively extend into future versions.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/boranzer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bora anzerlioğlu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@boranzer) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19085099) 
+## Features
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=logilog&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=logilog&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=logilog&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+- **FastAPI backend** with async SQLAlchemy and automatic schema creation.
+- **Zero-trust security posture** using hashed passwords, JWT bearer tokens, and status-aware user models.
+- **Trial-to-paid subscriptions** with 24-hour trial windows and quota enforcement.
+- **Usage metering** with per-user token tracking for AI requests.
+- **OpenAI integration** via a hardened HTTPX client ready for GPT-4 class models.
+- **12-factor configuration** managed through environment variables.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=logilog&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## Getting started
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+### 1. Set environment variables
 
----
-[![](https://visitcount.itsvg.in/api?id=logilog&icon=6&color=4)](https://visitcount.itsvg.in)
+Create a `.env` file (or export variables) with at least the following values:
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```env
+SECRET_KEY="replace-with-long-random-string"
+DATABASE_URL="sqlite+aiosqlite:///./logilog.db"
+OPENAI_API_KEY="sk-your-key"
+TRIAL_LENGTH_DAYS=1
+```
+
+> **Tip:** For production switch to a managed PostgreSQL instance, e.g. `postgresql+asyncpg://user:pass@host:5432/logilog`.
+
+### 2. Install dependencies
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install -e .
+```
+
+### 3. Run the API server
+
+```bash
+uvicorn backend.app.main:app --reload
+```
+
+The OpenAPI docs are available at [http://localhost:8000/docs](http://localhost:8000/docs).
+
+## API overview
+
+| Endpoint | Method | Description |
+| --- | --- | --- |
+| `/api/auth/register` | `POST` | Register a new account with email, full name, and password. |
+| `/api/auth/login` | `POST` | Exchange credentials for a JWT access token. |
+| `/api/users/me` | `GET` | Fetch the authenticated user's profile and subscription. |
+| `/api/subscriptions/trial` | `POST` | Begin a 24-hour trial (single use). |
+| `/api/subscriptions/activate` | `POST` | Promote the user to premium (payment gateway hook placeholder). |
+| `/api/ai/complete` | `POST` | Generate an AI response using the configured OpenAI model. |
+
+Every protected endpoint requires the `Authorization: Bearer <token>` header from the login response.
+
+## Project structure
+
+```
+backend/
+  app/
+    api/                # FastAPI routers grouped by concern
+    core/               # Configuration, database, and security helpers
+    models/             # SQLAlchemy ORM models
+    schemas/            # Pydantic request/response models
+    services/           # External integrations such as OpenAI
+    main.py             # FastAPI application bootstrap
+pyproject.toml          # Python package metadata & dependencies
+```
+
+## Next steps
+
+- Wire `/api/subscriptions/activate` to a billing provider (Stripe, Paddle, etc.).
+- Replace SQLite with a cloud-hosted PostgreSQL database for multi-user scale.
+- Add background tasks for quota resets and lifecycle emails.
+- Build a React or Next.js front-end that consumes these APIs.
+
+## License
+
+Released under the MIT License. See `LICENSE` if present in future revisions.
